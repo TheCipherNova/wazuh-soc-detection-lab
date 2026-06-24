@@ -1,4 +1,4 @@
-# Wazuh SIEM Lab – Authentication Monitoring & Alert Correlation
+# Wazuh SIEM Lab – Authentication Attack Detection & Alert Correlation
 
 This project demonstrates detection of a simulated multi-stage authentication attack scenario using Wazuh SIEM:
 
